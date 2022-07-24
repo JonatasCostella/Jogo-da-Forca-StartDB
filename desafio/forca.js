@@ -11,10 +11,6 @@ class Forca {
     } 
   }
 
-  verificaLetra(letra){
-    
-  }
-
   chutar(letra) {
     /* Verificar Letra */
     
